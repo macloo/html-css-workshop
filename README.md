@@ -103,7 +103,7 @@ In the GitHub repo, find a starter file in the folder **page_layout**
 
 Save and reload. We will use the three color blocks to help us see what happens next as we apply some tricky styles to this page.
 
-Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/page_layout/first.html). Your three background colors may differ, but the result should be similar.
+Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/page_layout/prelim.html). Your three background colors may differ, but the result should be similar at this stage in the exercise.
 
 ### CSS floats
 
