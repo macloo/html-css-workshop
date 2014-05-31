@@ -128,3 +128,8 @@ Floats require two things:
 Save and reload. At this point, your page layout should [look like this](http://macloo.github.io/html-css-workshop/resources/page_layout/first.html).
 
 **Note:** We have kept the unattractive background colors on the three sections throughout to make it obvious when the floats get messed up. _Floats often get messed up._ It's good to use this background color trick to help yourself fix them.
+
+### Finishing up
+
+Please refer to [this Google doc](http://bit.ly/mmhtmlworkshop) for the details.
+
