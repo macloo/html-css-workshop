@@ -23,6 +23,8 @@ In the GitHub repo, find a starter file in the folder **html_start**
 10. Try this: http://validator.w3.org/ 
 11. **Review:** Structure of documents (HTML for structure, not design)
 
+Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/html/first.html).
+
 ### Code the structure
 
 1. Examine an image of a simple home page for a Web app: http://bit.ly/mmscreencap1 
