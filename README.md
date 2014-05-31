@@ -66,11 +66,15 @@ Copy and paste the paragraph, so you have two identical paragraphs in the HTML.
 2. Remove all width and margin statements from all elements in the CSS; then save, reload, and view
 3. In the CSS, add to DIV: `width: 800px;` and `margin: auto;` -- then save, reload, view
 4. In the CSS, add to DIV: `border: 1px solid #000;` and save, reload, view
+
 > **Note:** This border is ugly. Its purpose is to allow you to see the effects of margins and padding.
+
 5. What is a DIV? How are DIVs used? 
 6. In the CSS, add `margin: 20px;` to the p, then save, reload, view
 7. Increase padding on the p, then save, reload, view
+
 > **Caution:** Overuse of margin and/or padding on too many elements has multiple effects, make design hard to control. Restraint (minimal use of margin and padding) is the best practice.
+
 8. **Selectors and classes:** When and why do we create a class in CSS? 
 9. Add a new `.highlight` class in the CSS
 10. In the HTML, apply the `highlight` class to one p but not both. Save, reload, view
