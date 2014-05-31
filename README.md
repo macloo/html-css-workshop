@@ -56,7 +56,7 @@ In the GitHub repo, find a starter file in the folder **css_start**
 
 Compare your result to ...
 
-### Next steps
+### Next steps: margin, padding, classes
 
 Save the HTML file and the CSS file with new filenames; edit the LINK tag accordingly.
 
@@ -65,21 +65,16 @@ Copy and paste the paragraph, so you have two identical paragraphs in the HTML.
 1. Add `<div>` above the H1 and `</div>` below the second `</p>` -- but before `</body>`
 2. Remove all width and margin statements from all elements in the CSS; then save, reload, and view
 3. In the CSS, add to DIV: `width: 800px;` and `margin: auto;` -- then save, reload, view
-4. In the CSS, add to DIV: `border: 1px solid #000;` and save, reload, view
-
-> **Note:** This border is ugly. Its purpose is to allow you to see the effects of margins and padding.
-
+4. In the CSS, add to DIV: `border: 1px solid #000;` and save, reload, view | **Note:** This border is ugly. Its purpose is to allow you to see the effects of margins and padding.
 5. What is a DIV? How are DIVs used? 
 6. In the CSS, add `margin: 20px;` to the p, then save, reload, view
-7. Increase padding on the p, then save, reload, view
-
-> **Caution:** Overuse of margin and/or padding on too many elements has multiple effects, make design hard to control. Restraint (minimal use of margin and padding) is the best practice.
+7. Increase padding on the p, then save, reload, view | **Caution:** Overuse of margin and/or padding on too many elements has multiple effects, make design hard to control. Restraint (minimal use of margin and padding) is the best practice.
 
 8. **Selectors and classes:** When and why do we create a class in CSS? 
 9. Add a new `.highlight` class in the CSS
-10. In the HTML, apply the `highlight` class to one p but not both. Save, reload, view
+10. In the HTML, apply the `highlight` class to one p but not both -- save, reload, view | **Note:** In the CSS, a class begins with a period. In the HTML, no period is used.
 11. Add a `<span>` tag to one sentence in the middle of the _other_ paragraph and apply the `highlight` class to it. Save, reload, view
-12. Reusability of classes in CSS
+12. Reusability of classes in CSS: We just saw the same class used in both a P and a SPAN
 
 Compare your result to ...
 
