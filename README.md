@@ -84,3 +84,27 @@ Compare your result to [this page](http://macloo.github.io/html-css-workshop/res
 ### Page areas and layout
 
 [Final product](http://macloo.github.io/html-css-workshop/resources/page_layout/second.html)
+
+In the GitHub repo, find a starter file in the folder **page_layout**
+
+1. Create a **styles** folder and a new CSS file inside it
+2. In the HTML, LINK your CSS file
+3. Using a printout of this page -- http://bit.ly/mmscreencap1 -- decide what area of the page you would call the footer. Draw a rectangle around that area. Make sure it goes all the way from left to right
+4. Do the same with the area of the page you would call the header
+5. Finally, the area in the middle (all the headings, text, and image in the middle: Draw a third rectangle around that, the main content of the page | **Example:** http://bit.ly/mscreencap2
+6. Discuss the (new) tags of HTML5: `<header>` `<footer>` `<nav>` `<article>` `<section>`
+7. Apply `<header>` and `<footer>` tags to your HTML now. Follow the rectangles you drew | **Note:** Do not confuse `<head>` (which is on every HTML page from the beginning of time) and `<header>` (which is new and optional) — they have different functions!
+8. The middle section: Wrap it in a DIV. Give it an ID: `<div id="main"> </div>` 
+9. **Review:** How are DIVs used?
+10. How are CSS IDs different from CSS classes?
+11. In your CSS, add styles to the three main areas of the page: A different background color for each block -- save both files, reload in browser
+12. Style the BODY
+13. Add to each of the three sections (header, footer, main DIV): `max-width: 800px; margin: auto; padding: 20px;`
+
+Save and reload. We will use the three color blocks to help us see what happens next as we apply some tricky styles to this page.
+
+Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/page_layout/first.html)
+
+### CSS floats
+
+To come.
