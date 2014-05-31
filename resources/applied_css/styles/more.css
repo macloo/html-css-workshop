@@ -1,0 +1,33 @@
+/*  this CSS adds a DIV and a .highlight class  */
+
+body {
+	background: #AB5E98;
+	font-family: verdana, sans-serif;
+	font-size: 100%;
+	margin: 20px 0;
+}
+
+div {
+	width: 700px;
+	margin: auto;
+	border: 1px solid #000;
+}
+
+h1 {
+	color: #EDC0E2;
+	font-size: 400%;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+p {
+	background: #F2D0EA;
+	line-height: 150%;
+	padding: 30px 40px;
+	margin: 20px;
+}
+
+.highlight {
+	background: #FCEC08;
+}
+

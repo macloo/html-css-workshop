@@ -1,0 +1,42 @@
+body {
+	background: #fff;
+	color: #000;
+	font-family: calibri, sans-serif;
+	font-size: 100%;
+}
+
+header {
+	background: #ccc;
+	max-width: 800px;
+	margin: auto;
+	padding: 20px;
+}
+
+footer {
+	background: #fcc;
+	max-width: 800px;
+	margin: auto;
+	padding: 20px;
+}
+
+#main {
+	background: #ccf;
+	max-width: 800px;
+	margin: auto;
+	padding: 20px;
+}
+
+.leftside {
+	max-width: 500px;
+	float: left;
+}
+
+.rightside {
+	max-width: 300px;
+	float: right;
+}
+
+.clearfloats {
+	clear: both;
+}
+

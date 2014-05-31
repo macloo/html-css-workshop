@@ -1,0 +1,37 @@
+/* this CSS styles three different selectors:
+   body, h1, and p 
+   */
+
+body {
+	background: #AB5E98;
+	max-width: 800px;
+	margin: auto;
+	font-family: verdana, sans-serif;
+	font-size: 100%;
+}
+
+h1 {
+	color: #EDC0E2;
+	font-size: 400%;
+	font-weight: normal;
+	/* font-weight can be bold or normal
+	   font-style can be italic or normal
+	   */
+	margin-bottom: 0;
+}
+
+p {
+	background: #F2D0EA;
+	line-height: 150%;
+	padding: 30px 40px;
+	/* padding can have 4 numbers - top right bottom left - TRouBLe 
+	   IF YOU USE only 2 numbers, the first is top & bottom, 
+	   and the second is right & left 
+	   */
+}
+
+/* margin also uses TRBL - can use 4 numbers, or 2, or 1 
+   padding affects space on four sides INSIDE the element, while 
+   margin affects space on four sides OUTSIDE the element
+   */
+
