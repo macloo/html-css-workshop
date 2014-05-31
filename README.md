@@ -107,4 +107,24 @@ Compare your result to [this page](http://macloo.github.io/html-css-workshop/res
 
 ### CSS floats
 
-To come.
+Because we have created the three sections (a header, a main section, and a footer) with HTML tags, we can now _float_ blocks of content to the left and right sides.
+
+There's a difference between [block elements vs. inline elements](http://webdesignfromscratch.com/html-css/css-block-and-inline/) in HTML.
+
+Floats require two things:
+* The floated element must be a block or an image.
+* Floated elements must have a width of less than 100%.
+
+(If the floated element is not a block, add `display: block;` in CSS.)
+
+1. Your first floats: Write two new classes in the CSS: `.leftside` and `.rightside` 
+2. Apply `leftside` to the H1 and `rightside` to the p in the `<header>` -- reload, view in browser
+3. How to fix the mess: In the CSS, write a new `.clearfloats` class; then add a new DIV only for that -- above the `</header>` tag: `<div class="clearfloats"> </div>`
+4. Use the same two classes to float the two footer sections, **Contact** and **About** -- but first, wrap each of those sections in a DIV
+5. Apply the `clearfloats` class in a new DIV above `</footer>`
+6. Wrap the main section text (including the headings) in a new DIV, then apply `leftside` to that DIV, and apply `rightside` inside the `<img>` tag
+7. Apply the `clearfloats` class in a new DIV just _below_ the `<img>` tag 
+
+Save and reload. At this point, your page layout should [look like this](http://macloo.github.io/html-css-workshop/resources/page_layout/first.html).
+
+**Note:** We have kept the unattractive background colors on the three sections throughout to make it obvious when the floats get messed up. _Floats often get messed up._ It's good to use this background color trick to help yourself fix them.
