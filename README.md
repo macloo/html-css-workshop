@@ -33,7 +33,7 @@ In the GitHub repo, find a starter file in the folder **html_start**
 6. Hierarchy of folders on your drive (relationship of image file to HTML file determines how you write the IMG SRC attribute value)
 7. Use of the `<br>` tag: For addresses and poetry; NOT used to add linespaces
 
-Compare your result to ...
+Compare your result to [this page](http://macloo.github.io/html-css-workshop/page_layout/start.html).
 
 ## Day 2: CSS
 
@@ -54,7 +54,7 @@ In the GitHub repo, find a starter file in the folder **css_start**
 9. Font size, weight, style, line-height
 10. Add padding to p
 
-Compare your result to ...
+Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/applied_css/simple.html).
 
 ### Next steps: margin, padding, classes
 
@@ -75,5 +75,10 @@ Copy and paste the paragraph, so you have two identical paragraphs in the HTML.
 11. Add a `<span>` tag to one sentence in the middle of the _other_ paragraph and apply the `highlight` class to it. Save, reload, view
 12. Reusability of classes in CSS: We just saw the same class used in both a P and a SPAN
 
-Compare your result to ...
+Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/applied_css/more.html).
 
+## Day 3: CSS layouts
+
+### Page areas and layout
+
+[Final product](http://macloo.github.io/html-css-workshop/resources/page_layout/second.html)
