@@ -13,7 +13,7 @@ You'll also see how the user's actions on a Web page can be recorded and then us
 
 1. Open **start.html** and (in the **scripts** folder) **first.js**
 2. In the HTML, recognize the similarities of the code within the three A tags
-3. The differences with the three A tags are the names of _functions_:
+3. The differences in the three A tags are the names of _functions_:
      1. `alertThem();`
      1. `confirmIt();`
      1. `promptThem();`
@@ -64,7 +64,7 @@ You'll also see how the user's actions on a Web page can be recorded and then us
 3. This is another _if statement_: But this one lets us test _more than two_ conditions because of `else if`
     1. An _if statement_ always starts with `if ()`
     1. When an _if statement_ includes `else ()` it will always be the final part
-    1. In between `if ()` and `else ()`, an _if statement_ may have as many `else if () conditions as needed -- there's no limit
+    1. In between `if ()` and `else ()`, an _if statement_ may have as many `else if ()` conditions as needed -- there's no limit
 4. Now we will go through the _if statement_ line by line:
     1. `if (userResponse == null)` tests to see if the user has clicked "Cancel"
     1. `alert(msg);` -- this happens if the previous line is true
@@ -80,6 +80,7 @@ You'll also see how the user's actions on a Web page can be recorded and then us
 **Example:** 
 ` 
 } else if (userResponse == "figs") { 
-   alert("I don't see any figs here!")`
+   alert("I don't see any figs here!")
+`
 
 
