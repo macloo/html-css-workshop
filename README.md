@@ -129,7 +129,16 @@ Save and reload. At this point, your page layout should [look like this](http://
 
 **Note:** We have kept the unattractive background colors on the three sections throughout to make it obvious when the floats get messed up. _Floats often get messed up._ It's good to use this background color trick to help yourself fix them.
 
-### Finishing up
+### Finishing up the CSS layout
 
-Please refer to [this Google doc](http://bit.ly/mmhtmlworkshop) for the details.
+Please refer to [this Google doc](http://bit.ly/mmhtmlworkshop) for the details. See the section under "F. More page layout with CSS (sixth HTML page)."
 
+## Day 4: JavaScript
+
+In the GitHub repo, find and open the folder **javascript_start**
+
+You'll find a README document there for this section.
+
+## Day 5: jQuery
+
+## Day 6: jQuery
