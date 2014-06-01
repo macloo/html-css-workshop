@@ -1,0 +1,45 @@
+body {
+	background: #ACD696; 
+	margin: 0;
+	font-family: calibri, sans-serif;
+	font-size: 100%;
+}
+
+#wrapper { 
+	background: #fff; 
+	max-width: 700px;
+	margin: 20px auto;
+	padding: 20px 40px;
+}
+
+h1 {
+	color: #056B96;
+	font-size: 400%;
+	margin: 0;
+}
+
+p, ul {
+	font-size: 140%;
+	line-height: 150%;
+}
+
+ul {
+	margin: 0;
+	padding-left: 80px;
+	list-style: url("../images/triangle.png");
+}
+
+
+/* ------- LINK STYLES ------- */
+
+a:link, a:visited, a:active {
+	color: #056B96;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #03b3fd;
+	text-decoration: underline;
+}
+
+
