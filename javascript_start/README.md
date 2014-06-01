@@ -83,4 +83,4 @@ You'll also see how the user's actions on a Web page can be recorded and then us
     alert("I don't see any figs here!")
 ```
 
-
+**If you are brand-new to writing JavaScript code,** you should play around with the script and the three kinds of dialog boxes until you understand all of it. "Playing" means you try new things and write new functions, or modify existing functions, and try them out in the browser. 
