@@ -78,9 +78,9 @@ You'll also see how the user's actions on a Web page can be recorded and then us
 7. **Add your own** `else if ()` -- insert a new condition that tests for something specific that was typed -- save, reload, and test 
 
 **Example:** 
-` 
+```
 } else if (userResponse == "figs") { 
-   alert("I don't see any figs here!")
-`
+    alert("I don't see any figs here!")
+```
 
 
