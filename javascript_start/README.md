@@ -9,6 +9,8 @@ The point of this collection is to introduce you to these common elements of scr
 
 You'll also see how the user's actions on a Web page can be recorded and then used by the script.
 
+You can view the file and try the four scripts > [here](http://macloo.github.io/html-css-workshop/javascript_start/)
+
 ## First
 
 1. Open **start.html** and (in the **scripts** folder) **first.js**
