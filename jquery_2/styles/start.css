@@ -1,0 +1,25 @@
+body {
+	background: #ACD696; 
+	margin: 0;
+	font-family: calibri, sans-serif;
+	font-size: 100%;
+}
+
+#wrapper { 
+	background: #fff; 
+	max-width: 700px;
+	margin: 20px auto;
+	padding: 20px 40px;
+}
+
+h1 {
+	color: #056B96;
+	font-size: 400%;
+	margin: 0;
+}
+
+p {
+	font-size: 140%;
+	line-height: 150%;
+}
+
