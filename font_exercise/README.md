@@ -3,6 +3,8 @@ Google Web Fonts
 
 Learn all about them [here](https://developers.google.com/fonts/docs/getting_started).
 
+See [an example page](http://macloo.github.io/html-css-workshop/font_exercise/gfexample.html) using Google Fonts.
+
 ## Exercise
 
 Produce at least one HTML page that uses three (3) different Google Web fonts: 
