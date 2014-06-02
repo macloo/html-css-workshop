@@ -1,0 +1,32 @@
+body {
+	background: #AB5E98;
+ 	font-family: Spinnaker, Verdana, sans-serif; /* Google Font added */
+	font-size: 100%;
+	margin: 20px 0;
+}
+
+div {
+	background: #fff;
+	max-width: 700px;
+	margin: auto;
+	padding: 20px 40px;
+}
+
+h1 {
+	font-family: Chango, Verdana, sans-serif; /* Google Font added */
+	font-size: 400%;
+	font-weight: normal;
+	margin: 0;
+	line-height: 130%;
+}
+
+p {
+	line-height: 140%;
+}
+
+.intro {
+	font-family: Merienda, Verdana, sans-serif; /* Google Font added */
+	font-size: 150%;
+	line-height: 160%;
+}
+
