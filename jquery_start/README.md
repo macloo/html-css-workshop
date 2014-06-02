@@ -1,6 +1,8 @@
 Introduction to jQuery
 =================
 
+[Final product](http://macloo.github.io/html-css-workshop/jquery_start/final.html)
+
 jQuery is a JavaScript library. To use jQuery, your HTML page must load the library, which is a JavaScript file. It can be downloaded [here](http://jquery.com/).
 
 The only HTML file you'll be using here is **start.html** -- open it in the text editor and in the browser.
