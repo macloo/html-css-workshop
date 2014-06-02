@@ -21,7 +21,7 @@ $("img").click(function() {
 });
 ```
 
-The general idea should be familiar from the first jQuery exercises: When we _click_ something -- in this case, any `img` -- something will happen. In this case, something will _hide_. But what? The thing that will hide is _\$(this)_ -- a special keyword in JavaScript that refers to the thing that was acted upon earlier. In this case, _\$(this)_ refers to whichever image was clicked. So, click an image, hide an image.
+The general idea should be familiar from the first jQuery exercises: When we _click_ something -- in this case, any `img` -- something will happen. In this case, something will _hide_. But what? The thing that will hide is _$(this)_ -- a special keyword in JavaScript that refers to the thing that was acted upon earlier. In this case, _$(this)_ refers to whichever image was clicked. So, click an image, hide an image.
 
 Save your file and reload the page in the browser. Test your jQuery code by clicking every image on the page.
 
@@ -37,9 +37,9 @@ Create a new button anywhere in the HTML:
 
 See if you can write an anonymous function in the JS file that will show images when that button is clicked. The function will have the same pattern as the function you wrote a moment ago.
 
-However, you can't use _\$(this)_ -- and why not? In this case, you want to click the _button_ but hide the _image_.
+However, you can't use _$(this)_ -- and why not? In this case, you want to click the _button_ but hide the _image_.
 
-#fadeOut()
+## fadeOut()
 
 This method adds an effect to the basic `hide()` method. To see it work, edit your JS file. In the one place where you wrote `hide()`, change that to `fadeOut()` -- and do be careful to type an uppercase letter O!
 
