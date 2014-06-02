@@ -79,6 +79,13 @@ Copy and paste the paragraph, so you have two identical paragraphs in the HTML.
 
 Compare your result to [this page](http://macloo.github.io/html-css-workshop/resources/applied_css/more.html).
 
+### Adding Google Fonts
+
+In the GitHub repo, find and open the folder **font_exercise**
+
+You'll find a README document there for this section.
+
+
 ## Day 3: CSS layouts
 
 ### Page areas and layout
