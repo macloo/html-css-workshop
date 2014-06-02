@@ -139,6 +139,14 @@ In the GitHub repo, find and open the folder **javascript_start**
 
 You'll find a README document there for this section.
 
+See the [final product](http://macloo.github.io/html-css-workshop/javascript_start/) of the exercise (four parts).
+
 ## Day 5: jQuery
+
+In the GitHub repo, find and open the folder **jquery_start**
+
+You'll find a README document there for this section.
+
+See the [final product](http://macloo.github.io/html-css-workshop/jquery_start/final.html) of the exercise (third part).
 
 ## Day 6: jQuery
