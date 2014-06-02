@@ -1,0 +1,93 @@
+body {
+	background: #fff;
+	font-family: calibri, sans-serif;
+	font-size: 100%;
+	color: #000;
+}
+
+/* basic styles */ 
+
+#wrapper {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	background: #F29DD9;
+}
+
+header {
+	border-bottom: 2px solid #000;
+}
+
+footer {
+	margin-top: 10px;
+	border-top: 1px solid #000;
+}
+
+textarea {
+	width: 250px;
+	height: 100px;
+}
+
+.leftside {
+	width: 300px;
+	float: left;
+}
+
+.rightside {
+	max-width: 500px;
+	float: left;
+}
+
+.clearfloats {
+	clear: both;
+}
+
+/* styles added for finesse */
+
+h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 300%;
+	line-height: 150%;
+}
+
+header p {
+	margin: 0;
+	padding: 0;
+	font-size: 150%;
+	line-height: 150%;
+	margin-top: 25px;
+}
+
+footer p {
+	font-style: italic;
+}
+
+footer span {
+	font-style: normal;
+}
+
+.comments {
+	padding: 20px 0;
+}
+
+.comments p {
+	min-width: 300px;
+	margin: 0;
+	padding: 10px 20px;
+	margin-bottom: 10px;
+	background: #ccc;
+}
+
+/* special alternating colors 
+   -- check compatibility of this in IE? --
+   */
+
+.comments p:nth-child(even) { 
+	background: #fff;
+}
+
+.comments p:nth-child(odd) { 
+	background: #ccc;
+}
+
