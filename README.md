@@ -156,4 +156,13 @@ You'll find a README document there for this section.
 
 See the [final product](http://macloo.github.io/html-css-workshop/jquery_start/final.html) of the exercise (third part).
 
+
 ## Day 6: jQuery
+
+In the GitHub repo, find and open the folder **jquery_2**
+
+You'll find a README document there for this section.
+
+See the [final product](http://macloo.github.io/html-css-workshop/jquery_2/final.html) of the exercise.
+
+
