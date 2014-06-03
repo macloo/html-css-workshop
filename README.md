@@ -140,6 +140,15 @@ Save and reload. At this point, your page layout should [look like this](http://
 
 Please refer to [this Google doc](http://bit.ly/mmhtmlworkshop) for the details. See the section under "F. More page layout with CSS (sixth HTML page)."
 
+## HTML and CSS review
+
+For a review of HTML and CSS at an intermediate level:
+
+* [HTML and CSS Checklist](http://bit.ly/html_css_checklist) 
+
+This includes some things not covered in this workshop, but you can easily look them up. 
+
+
 ## Day 4: JavaScript
 
 In the GitHub repo, find and open the folder **javascript_start**
@@ -165,4 +174,13 @@ You'll find a README document there for this section.
 
 See the [final product](http://macloo.github.io/html-css-workshop/jquery_2/final.html) of the exercise.
 
+
+## More jQuery for beginners
+
+These are two GitHub repos I use with journalism students. They include simple **exercises** aimed at beginners.
+
+* [jQuery Beginners](https://github.com/macloo/jquery_beginners)
+* [jQuery Exercises](https://github.com/macloo/jquery_exercises)
+
+I also strongly recommend the [Codecademy](http://www.codecademy.com/tracks/web) lessons in HTML, CSS, JavaScript, and jQuery. They are well worth your time, and you'll learn a lot from them! 
 
