@@ -37,6 +37,8 @@ Compare your result to [this page](http://macloo.github.io/html-css-workshop/res
 
 Compare your result to [this page](http://macloo.github.io/html-css-workshop/page_layout/start.html).
 
+[HTML Tutorials](http://htmldog.com/guides/html/) at **HTML Dog:** A good place to learn more.
+
 ## Day 2: CSS
 
 ### Introduction
@@ -146,7 +148,9 @@ For a review of HTML and CSS at an intermediate level:
 
 * [HTML and CSS Checklist](http://bit.ly/html_css_checklist) 
 
-This includes some things not covered in this workshop, but you can easily look them up. 
+That includes some things not covered in this workshop, but you can easily look them up. 
+
+[CSS Tutorials](http://htmldog.com/guides/css/) at **HTML Dog:** A good place to learn more.
 
 
 ## Day 4: JavaScript
@@ -156,6 +160,8 @@ In the GitHub repo, find and open the folder **javascript_start**
 You'll find a README document there for this section.
 
 See the [final product](http://macloo.github.io/html-css-workshop/javascript_start/) of the exercise (four parts).
+
+[MDN's JavaScript resources](https://developer.mozilla.org/en/docs/Web/JavaScript) are the best.
 
 ## Day 5: jQuery
 
@@ -177,10 +183,12 @@ See the [final product](http://macloo.github.io/html-css-workshop/jquery_2/final
 
 ## More jQuery for beginners
 
-These are two GitHub repos I use with journalism students. They include simple **exercises** aimed at beginners.
+These are two other GitHub repos I use with journalism students. They both include simple **exercises** aimed at beginners.
 
 * [jQuery Beginners](https://github.com/macloo/jquery_beginners)
 * [jQuery Exercises](https://github.com/macloo/jquery_exercises)
+
+[The jQuery site](http://jquery.com/) is your best reference for looking up and learning jQuery techniques.
 
 I also strongly recommend the [Codecademy](http://www.codecademy.com/tracks/web) lessons in HTML, CSS, JavaScript, and jQuery. They are well worth your time, and you'll learn a lot from them! 
 
