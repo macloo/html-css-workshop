@@ -3,7 +3,7 @@ html-css-workshop
 
 **The goal:** Get a group of students starting from zero to a point where they can use HTML, CSS, and even some JavaScript and jQuery to begin making simple Web apps.
 
-**Time frame:** Six days, average 2.5 hours per day.
+**Time frame:** Six days, average 2.5 hours per day (or about 15 hours altogether).
 
 ## Day 1: HTML
 
