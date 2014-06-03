@@ -5,6 +5,8 @@ Learn all about them [here](https://developers.google.com/fonts/docs/getting_sta
 
 See [an example page](http://macloo.github.io/html-css-workshop/font_exercise/gfexample.html) using Google Fonts.
 
+**NOTE:** Google Fonts appear _only_ when you are connected to the Internet. Offline, you will see other fonts, _not_ Google Fonts.
+
 ## Exercise
 
 Produce at least one HTML page that uses three (3) different Google Web fonts: 
