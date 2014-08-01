@@ -41,3 +41,12 @@ This code is already in the stylesheet, but it is commented out. Remove the two 
 If your browser implemented the box model such that padding is *not* added to the total width of the element (in this case, a DIV), you will not see any difference. But the added CSS ensures that all users with all browsers will see what you see.
 
 If your browser previously added the extra width to the "card" DIV, that extra will now be gone, and the space inside the card will be equal on the left and right sides of the photos, in every card.
+
+##Add a New Card to the Page
+There's one additional animal photo in the *images* folder (blue monkey.jpg). Use this photo to add a new card -- this will give you experience with copying all the HTML for an existing card and then modifying it to create a new card. 
+
+The URL for the blue monkey at Wikipedia is:
+
+http://en.wikipedia.org/wiki/Blue_monkey
+
+
