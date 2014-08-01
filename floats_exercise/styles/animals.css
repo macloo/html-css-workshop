@@ -1,0 +1,41 @@
+/* Below is the fix for discrepancies among browsers for the box model */
+/* ----
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+---- */
+
+body {
+	background: #fff;
+	color: #000;
+	font-family: calibri, arial, sans-serif;
+	font-size: 100%;
+	margin: 0;
+}
+
+.card {
+	width: 300px;
+	margin: 0;
+	margin-left: 30px;
+	margin-top: 20px;
+	padding: 25px;
+	background: #cfc;
+	float: left;
+}
+
+.card p {
+	padding: 0;
+	margin: 0;
+	margin-top: 20px;
+	line-height: 120%;
+}
+
+.source {
+	font-size: 90%;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	text-align: right;
+}
+
