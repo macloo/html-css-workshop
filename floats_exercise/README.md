@@ -43,10 +43,14 @@ If your browser implemented the box model such that padding is *not* added to th
 If your browser previously added the extra width to the "card" DIV, that extra will now be gone, and the space inside the card will be equal on the left and right sides of the photos, in every card.
 
 ##Add a New Card to the Page
-There's one additional animal photo in the *images* folder (blue monkey.jpg). Use this photo to add a new card -- this will give you experience with copying all the HTML for an existing card and then modifying it to create a new card. 
+There's one additional animal photo in the *images* folder (bluemonkey.jpg). Use this photo to add a new card -- this will give you experience with copying all the HTML for an existing card and then modifying it to create a new card. 
+
+Make sure to change the IMG tag, the informational text in the P tag, and the source URL.
 
 The URL for the blue monkey at Wikipedia is:
 
 http://en.wikipedia.org/wiki/Blue_monkey
+
+Save, reload, and view the page in the browser.
 
 
